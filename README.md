@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Samarth-Dengre
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning data structures and algorithms , web development
-- 💞️ I’m looking to collaborate on some web development projects
+- 🌱 I’m currently learning data structures and algorithms, web development
+- ✨ Check out my Portfolio website for more information: https://portfolio-samarthdengre.vercel.app/
 - 📫 Reach me at samarthdengre2411@gmai.com 
 
 <!---
