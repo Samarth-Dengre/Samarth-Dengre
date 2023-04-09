@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Samarth-Dengre
 - 🌱 I’m currently learning data structures and algorithms, web development
-- ✨ Check out my Portfolio website for more information: https://portfolio-samarthdengre.vercel.app/
+- ✨ Check out my Portfolio website for more information: https://samarthdengre.vercel.app/
 - 📫 Reach me at samarthdengre2411@gmail.com 
 
 <!---
