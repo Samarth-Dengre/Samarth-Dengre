@@ -28,4 +28,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samarth-dengre&" alt="samarth-dengre" /></p>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/samarth_dengre)
+![](https://leetcard.jacoblin.cool/samarth_dengre?ext=contest)
