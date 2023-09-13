@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samarth Dengre</h1>
 <h3 align="center">A Passionate Full Stack Developer From India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samarth-dengre" alt="samarth-dengre" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samarth-dengre&theme=onedark" alt="samarth-dengre" /></a> </p>
 
 - 🌱 I’m currently learning **Design Pattern And Low Level Design**
 
